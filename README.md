@@ -35,13 +35,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/PiyushPb/Airplane-Ticket-Booking.git
+git clone [https://github.com/ahbadhon097/Airport_Ticket_Booking-_website.git]
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd airplane-ticket-booking
+cd airport-ticket-booking
 ```
 
 3. There are 2 directories Frontend and backend
@@ -102,4 +102,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to reach out if you have any questions or need further assistance [Piyush Linkedin](https://www.linkedin.com/in/piyushpardeshi/). Happy coding!
+Feel free to reach out if you have any questions or need further assistance [Abu Hasan Badhons' Linkedin](https://www.linkedin.com/in/abuhasan-1997ce/). Happy coding!
